@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1><span className="heading-for-fun">Very Unnofficial </span>Carbon Emissions Disclosures Database</h1>
+        <h1><span className="heading-for-fun">Very Unofficial </span>Carbon Emissions Disclosures Database</h1>
         <p>Made with TypeScript, React and GraphQL.</p>
       </header>
       <section>
